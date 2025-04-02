@@ -1,0 +1,31 @@
+Hours,Sum of transaction_qty,,Day,Sum of transaction_qty,,,,,,,
+6,"$6,865.00",,Friday,"$31,207.00",,,,,,,
+7,"$19,449.00",,Monday,"$31,231.00",,,,,,,
+8,"$25,197.00",,Saturday,"$29,614.00",,,product_category,Sum of Total,,product_detail2,Sum of Total
+9,"$25,370.00",,Sunday,"$30,182.00",,,Bakery,"$82,315.64",,Brazilian,"$37,746.50"
+10,"$26,713.00",,Thursday,"$31,162.00",,,Branded,"$13,607.00",,Ethiopia,"$42,304.10"
+11,"$14,035.00",,Tuesday,"$30,449.00",,,Coffee,"$269,952.45",,Jamaican Coffee River,"$38,781.15"
+12,"$12,690.00",,Wednesday,"$30,625.00",,,Coffee beans,"$40,085.25",,Latte,"$36,369.75"
+13,"$12,439.00",,Grand Total,"$214,470.00",,,Drinking Chocolate,"$72,416.00",,Sustainably Grown Organic,"$39,065.10"
+14,"$12,907.00",,,,,,Flavours,"$8,408.80",,Grand Total,"$194,266.60"
+15,"$12,923.00",,,,,,Loose Tea,"$11,213.60",,,
+16,"$12,881.00",,,,,,Packaged Chocolate,"$4,407.64",,,
+17,"$12,700.00",,Month,Sum of transaction_qty,,,Tea,"$196,405.95",,,
+18,"$10,826.00",,April,"$36,469.00",,,Grand Total,"$698,812.33",,,
+19,"$8,595.00",,February,"$23,550.00",,,,,,,
+20,$880.00,,January,"$24,870.00",,,,,,,
+Grand Total,"$214,470.00",,June,"$50,942.00",,,product_type,Sum of Total,,,
+,,,March,"$30,406.00",,,Barista Espresso,"$91,406.20",,,
+,,,May,"$48,233.00",,,Brewed Black tea,"$47,932.00",,,
+,,,Grand Total,"$214,470.00",,,Brewed Chai tea,"$77,081.95",,,
+,,,,,,,Gourmet brewed coffee,"$70,034.60",,Day,COUNT of transaction_id
+,,,,,,,Hot chocolate,"$72,416.00",,Friday,"21,701"
+,,,,,,,Grand Total,"$358,870.75",,Monday,"21,643"
+store_location,Sum of Total,,store_location,Count of transaction_id,SUM of Total,,,,,Saturday,"20,510"
+Astoria,"$232,243.91",,Astoria,50599.00,232243.91,,,,,Sunday,"21,096"
+Hell's Kitchen,"$236,511.17",,Hell's Kitchen,50735.00,236511.17,,sizes,Count of transaction_id,,Thursday,"21,654"
+Lower Manhattan,"$230,057.25",,Lower Manhattan,47782.00,230057.25,,Large,41924.00,,Tuesday,"21,202"
+Grand Total,"$698,812.33",,Grand Total,149116.00,698812.33,,Not Defined,43882.00,,Wednesday,"21,310"
+,,,,,,,Regular,49386.00,,Grand Total,"149,116"
+,,,,,,,Small,13924.00,,,
+,,,,,,,Grand Total,149116,,,
